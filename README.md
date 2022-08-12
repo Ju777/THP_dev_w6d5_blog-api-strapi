@@ -14,3 +14,5 @@ You'll have to get both repos to run the app.
     - Then, after getting the repo containing the app, go in the app directory and :
         -   launch 'npm install' + enter.
         -   launch 'npm start' + enter, your webrowser should open automatically on http://localhost:3000 .
+
+:)
