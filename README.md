@@ -1,5 +1,5 @@
 This repo is an API supposed to be used with the app : https://github.com/Ju777/THP_dev_w6d5_blo-app-react .
-You'('ll have to get both repos to run the app.
+You'll have to get both repos to run the app.
 
 # Blog with STRAPI.
 
